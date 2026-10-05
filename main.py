@@ -77,7 +77,7 @@ def form_create():
         
 ####################################################################################################
 
-        # Tarefa #2. Criar uma forma de armazenar dados no Banco de Dados
+        # TAREFA 3 CRIAR UM OBJETO CARD COM OS DADOS DO FORMULÁRIO
         # card = Card(titulo=titulo, subtitulo=subtitulo, texto=texto)
         card = 
         
